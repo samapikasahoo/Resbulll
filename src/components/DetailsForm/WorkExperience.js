@@ -6,6 +6,8 @@ import { Button, Divider, TextField } from "@mui/material";
 import  { useState } from "react";
 import ReactDOM from 'react-dom/client';
 
+// this component return us thework experience of detail filling page//
+
 export default function WorkExperience(props) {
 
 
