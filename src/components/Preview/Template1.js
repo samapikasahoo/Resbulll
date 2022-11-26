@@ -2,6 +2,7 @@ import { Button, Divider, Grid, TextField, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import * as React from "react";
 import jsPDF from "jspdf";
+// this component return us the template page//
 
 export default function Template1(props) {
   const {
