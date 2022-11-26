@@ -8,7 +8,7 @@ import PersonalInfo from "./PersonalInfo";
 import WorkExperience from "./WorkExperience";
 import Education from "./Education";
 import KeySkills from "./KeySkills";
-
+// this component return us the vertical tab//
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
