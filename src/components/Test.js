@@ -1,5 +1,6 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
+// this component return us the test for routing//
  
 function About() {
  return (
