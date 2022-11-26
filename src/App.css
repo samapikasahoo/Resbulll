@@ -42,6 +42,7 @@ a:active {
     transform: rotate(360deg);
   }
 }
+// button  for use template//
 button {
   display: block;
   margin: 0.5rem auto;
