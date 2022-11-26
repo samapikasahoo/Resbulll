@@ -1,6 +1,8 @@
 import { Link, Outlet } from "react-router-dom";
 import ResumeBuilder from "./ResumeBuilder";
 import React, { useState } from "react";
+
+// this component return us UseTemplate button//
 function UseTemplate() {
     const [personalInfo, setPersonalInfo] = useState({
         firstName: "",
