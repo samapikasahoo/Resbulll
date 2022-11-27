@@ -1,24 +1,24 @@
 This is a group project created & completed by:
-Eswar M
-Vijay R M
-Abhinav Singh Chauhan
+Samapika sahoo
+Chadini syaed
 
 
-Intro about Quizz App :
+Intro about ResumeBuilder App :
 
-1.  The App basically allows the user to make an interactive quiz. The Create New Quiz is used to start creating the new quiz where they will be given a choice to select the type of quiz. Then they will be redirected to the quiz creation. After creating the quiz, users can check the list of quizzes  in the My Quizzes page. 
+1.  The App basically allows the user to make an interactive Resume. The  Usetemplate button will redirects the user towards detail filling form page . 
 
-2. Then the user can go on to the Play quiz page to start the quiz, before starting the quiz it requires the Name for the authentication. After playing the quiz, the result page will be shown at the end.
+2. The first personal info page user can fill all the personal informations along with image uploader  then by clicking next button user  enter into the work experience page
 
-3. The user can enable and disable particular quizzes by using the toggle button.
+3.In work experience page the user will fil the job title and additional job details with submit button then go to the next page.
 
-4. The user can delete the quizzes if they dont want it by using the delete button.
+
+4. Then user go the Education page will fill all the graduation details and then clicking on next Keyskills page where the user will fill all key skills .
 
 Functionality and Components of Quizz App :
 
 The App.js is the initial and main file where the Navbar components and the react-routers are being rendered.
 
-1. This Quiz Platform app contains mainly 6 pages :
+1. This Resume Builder app contains mainly 6 pages :
    Home Page, 
    Create Quiz Page,
    My Quizzes Page, 
