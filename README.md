@@ -14,40 +14,31 @@ Intro about ResumeBuilder App :
 
 4. Then user go the Education page will fill all the graduation details and then clicking on next Keyskills page where the user will fill all key skills .
 
-Functionality and Components of Quizz App :
+Functionality and Components of ResumeBuilder App :
 
 The App.js is the initial and main file where the Navbar components and the react-routers are being rendered.
 
 1. This Resume Builder app contains mainly 6 pages :
-   Home Page, 
-   Create Quiz Page,
-   My Quizzes Page, 
-   Authentication Page, 
-   Play Quiz Page and 
-   Result Page.
+  .Home Page
+  .Details Filling Form page
+  .Preview Page
+  .About Us Page
 
 2. Routings :
     The React-router-dom is used for navigating the routes between the different pages.
 
 3. State management :
-     React-redux is used for state management operations
-      * React Redux is the official React UI bindings layer for Redux.
-      * It lets your React components read data from a Redux store, and dispatch actions to the store to update state.
-      * It mainly consists of three parts, namely
-         actions
-         store
-         Reducers
-
-4. Framer-motion :
-  Framer Motion is an animation library that makes creating animations easy.
-  Its simplified API helps us abstract the complexities behind animations and allows us to create animations with ease.
-
+     React is used for state management operations
+     
+ 4.Responsive Home Page  
+ Use media Query for responsive web page
+     
 5.conclusion :
  * This project is created with React.js and its dependencies.
- * css is used for stylings.
+ * Material Ui and css is used for stylings.
  * The React-router-dom is used for Routings.
- * React-redux is used for state management .
- * Framer Motion is used for animation.
+ * React is used for state management .
+ 
 
 
 
