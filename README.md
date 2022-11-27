@@ -22,7 +22,7 @@ Functionality and Components of ResumeBuilder App :
 
 The App.js is the initial and main file where the Navbar components and the react-routers are being rendered.
 
-1. This Resume Builder app contains mainly 6 pages :
+1. This Resume Builder app contains mainly 4 pages :
   .Home Page
   .Details Filling Form page
   .Preview Page
