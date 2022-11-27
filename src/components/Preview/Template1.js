@@ -2,6 +2,7 @@ import { Button, Divider, Grid, TextField, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import * as React from "react";
 import jsPDF from "jspdf";
+import ImageUploader from "../DetailsForm/ImageUploader";
 // this component return us the template page//
 
 export default function Template1(props) {
@@ -33,6 +34,7 @@ export default function Template1(props) {
 
   return (
     <Box sx={{ flexGrow: 1 }}>
+       <ImageUploader />;
       <Grid container spacing={2}>
         <Grid
           id="resume"
