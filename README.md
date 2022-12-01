@@ -43,7 +43,7 @@ The App.js is the initial and main file where the Navbar components and the reac
  * The React-router-dom is used for Routings.
  * React is used for state management .
  This project is deployed in netlify 
- resbull.netlify.app
+https://resbull.netlify.app/
  Github link
  https://github.com/samapikasahoo/Resbulll/tree/res/main
  
